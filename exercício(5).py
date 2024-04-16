@@ -1,3 +1,4 @@
+#atividades do dia 9/04/2024
 #pedindo valor em celsius
 celsius = float(input('Digite a temperatura em graus Celsius:'))
 #calculo em fahrenheit
