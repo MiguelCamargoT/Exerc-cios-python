@@ -1,3 +1,4 @@
+#atividades do dia 9/04/2024
 #colocando valores
 numero1 = int(input('Digite o prineiro numero: '))
 numero2 = int(input('Digite o segundo numero: '))
