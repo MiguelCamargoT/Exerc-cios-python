@@ -1,3 +1,4 @@
+#atividades do dia 9/04/2024
 #L = lado
 l1 = int (input ('digite o tamanho do primeiro lado do triangulo: '))
 l3 = int(input('digite o tamanho do segundo lado do triangulo: '))
