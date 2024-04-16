@@ -1,3 +1,4 @@
+#atividades do dia 9/04/2024
 import math
 #atribuindo valores
 a = float(input('Digite o valor de a: '))
