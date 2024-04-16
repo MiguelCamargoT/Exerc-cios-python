@@ -1,3 +1,4 @@
+# atividades dia 9/04/2024
 #pedindo valores
 numero1 = int(input("Digite o primeiro numero: ")) 
 numero2 = int(input("Digite o segundo numero: ")) 
